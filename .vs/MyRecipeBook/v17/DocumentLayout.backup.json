@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|c:\\users\\\uCAC0\uCAC0\uC774\\desktop\\portfolio\\myrecipebookfinal\\myrecipebookfinal\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|c:\\users\\\uCAC0\uCAC0\uC774\\desktop\\portfolio\\myrecipebookfinal\\myrecipebookfinal\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\formaddrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formaddrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|c:\\users\\\uCAC0\uCAC0\uC774\\desktop\\portfolio\\myrecipebookfinal\\myrecipebookfinal\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|c:\\users\\\uCAC0\uCAC0\uC774\\desktop\\portfolio\\myrecipebookfinal\\myrecipebookfinal\\formrecipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formrecipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\formrecipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formrecipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|c:\\users\\\uCAC0\uCAC0\uC774\\desktop\\portfolio\\myrecipebookfinal\\myrecipebookfinal\\formaddrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F777F7A-E05D-4A34-8B39-6DAFCA177622}|MyRecipeBook.csproj|solutionrelative:formaddrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.Designer.cs",
+              "RelativeToolTip": "FormMain.Designer.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAjwIwBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:04:34.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:20:09.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormAddRecipe.cs",
+              "RelativeDocumentMoniker": "FormAddRecipe.cs",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormAddRecipe.cs",
+              "RelativeToolTip": "FormAddRecipe.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1oAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:50:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddRecipe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormAddRecipe.cs",
+              "RelativeDocumentMoniker": "FormAddRecipe.cs",
+              "ToolTip": "C:\\C#\\MyRecipeBook\\FormAddRecipe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\MyRecipeBook\\FormAddRecipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:49:20.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRecipeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormRecipeDetail.cs",
+              "RelativeDocumentMoniker": "FormRecipeDetail.cs",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormRecipeDetail.cs",
+              "RelativeToolTip": "FormRecipeDetail.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:33:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRecipeDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormRecipeDetail.cs",
+              "RelativeDocumentMoniker": "FormRecipeDetail.cs",
+              "ToolTip": "C:\\C#\\MyRecipeBook\\FormRecipeDetail.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\MyRecipeBook\\FormRecipeDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:33:10.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\MyRecipeBookFinal\\MyRecipeBookFinal\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAuwOQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:31:24.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

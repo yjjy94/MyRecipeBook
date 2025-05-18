@@ -1,0 +1,2 @@
+김치찌개|한식|김치:2|RecipeImages\김치찌개.jpg
+샐러드|기타|상추:1,방울토마토:8,드레싱:1|RecipeImages\샐러드.jpg
